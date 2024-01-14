@@ -15,4 +15,6 @@ deno task start
 
 This will watch the project directory and restart as necessary.
 
+[Deno Deploy](https://deno.com/deploy)
+
 Ejemplo de código uso Deno y Deno Fresh basado en el [contenido](https://github.com/midudev/pixel-wars) de [Miguel Ángel Durán](https://github.com/midudev)
